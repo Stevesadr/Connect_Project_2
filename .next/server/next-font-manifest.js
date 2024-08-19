@@ -1,0 +1,1 @@
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/mehrab.sadr.sajjadigmail.com/Downloads/public-next-project-2/src/app/layout\":[\"static/media/a34f9d1faa5f3315-s.p.woff2\",\"static/media/f35acc76cf80b9b5-s.p.ttf\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
